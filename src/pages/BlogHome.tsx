@@ -17,9 +17,9 @@ export const BlogHome = () => {
         <meta name="description" content="Explore smart guides, formulas, tutorials, and educational content designed to help you calculate smarter with Mathiq." />
       </Helmet>
 
-      <div className="pt-24 pb-20 min-h-screen">
+      <div className="pt-4 md:pt-12 pb-20 min-h-screen">
         {/* Hero Section */}
-        <section className="relative px-6 py-20 text-center max-w-5xl mx-auto overflow-hidden">
+        <section className="relative px-6 py-8 md:py-12 text-center max-w-5xl mx-auto overflow-hidden">
           <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-[var(--color-brand)]/20 via-transparent to-transparent opacity-50 blur-3xl pointer-events-none" />
           
           <motion.div

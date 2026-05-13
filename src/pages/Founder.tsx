@@ -101,7 +101,7 @@ export const Founder = () => {
         </div>
 
         {/* Hero Section */}
-        <section className="relative z-10 px-6 mx-auto max-w-7xl pt-12 lg:pt-24 md:mb-32">
+        <section className="relative z-10 px-6 mx-auto max-w-7xl pt-4 lg:pt-8 md:mb-32">
           <div className="grid gap-12 lg:grid-cols-2 lg:gap-8 items-center">
             <motion.div 
               initial={{ opacity: 0, x: -30 }}

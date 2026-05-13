@@ -77,7 +77,7 @@ export const Home = () => {
       {/* Hero Section */}
       <section
         id="hero"
-        className="w-full max-w-5xl mx-auto mt-16 md:mt-24 flex flex-col items-center text-center relative z-10 scroll-mt-32"
+        className="w-full max-w-5xl mx-auto mt-8 md:mt-12 flex flex-col items-center text-center relative z-10 scroll-mt-32"
       >
         {/* Light Rays Background */}
         <div className="absolute top-0 left-0 w-full h-[800px] -mt-40 pointer-events-none z-[-1] flex justify-center opacity-70">

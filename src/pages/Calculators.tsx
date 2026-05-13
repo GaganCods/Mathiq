@@ -133,7 +133,7 @@ export const Calculators = () => {
   ];
 
   return (
-    <div className="w-full max-w-6xl mx-auto px-6 md:px-12 pt-12 pb-24 relative z-10">
+    <div className="w-full max-w-6xl mx-auto px-6 md:px-12 pt-4 md:pt-8 pb-24 relative z-10">
       <Reveal>
         <div className="mb-16">
           <h1 className="text-4xl md:text-5xl font-display font-semibold mb-4 text-white">
