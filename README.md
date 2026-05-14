@@ -40,7 +40,7 @@ To run Mathiq locally on your machine, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mathiq.git
+git clone https://github.com/GaganCods/mathiq.git
 
 # Navigate into the project directory
 cd mathiq
@@ -52,7 +52,7 @@ open index.html
 ## 🌐 Live Demo
 
 Experience the speed and design of Mathiq in your browser:  
-[**View Live Demo**](#) *(Add link here)*
+[**View Live Demo**](#) *[(Add link here)](https://mymathiq.vercel.app/)*
 
 ## 🔮 Upcoming Features
 
