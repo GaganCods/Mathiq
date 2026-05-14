@@ -329,7 +329,7 @@ export const Founder = () => {
             
             <div className="flex flex-wrap items-center justify-center gap-4">
               {[
-                { icon: <XIcon className="w-5 h-5" />, label: "X (Twitter)", url: "https://twitter.com/thegaganpratap" },
+                { icon: <XIcon className="w-5 h-5" />, label: "X (Twitter)", url: "https://twitter.com/thegaganpratap_" },
                 { icon: <Linkedin className="w-6 h-6" />, label: "LinkedIn", url: "https://www.linkedin.com/in/gagan-pratap/" },
                 { icon: <Instagram className="w-6 h-6" />, label: "Instagram", url: "https://www.instagram.com/thegaganpratap/" },
                 { icon: <Youtube className="w-6 h-6" />, label: "YouTube", url: "https://www.youtube.com/@thegaganpratap" }
